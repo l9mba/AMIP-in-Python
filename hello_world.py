@@ -1,2 +1,5 @@
-a=input()                          
-print('Hello world from '+ a)
+print('What is your name?')
+a=input()
+print('How old are you?')
+b= input() 
+print('Hello world from '+ a +'.I am '+ b +' years old')
